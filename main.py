@@ -79,4 +79,4 @@ async def delete_item(item_id: str):
         # Convertir l'_id en str avant de le retourner
         deleted_item["_id"] = str(deleted_item["_id"])
         return deleted_item
-    raise HTTPException(status_code=404, detail="Item not found")
+    raise HTTPException(status_code=404, detail="Item not found !")
