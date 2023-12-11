@@ -1,0 +1,1 @@
+mongodb+srv://nguirane120:<password>@atlascluster.usoi3xh.mongodb.net/
